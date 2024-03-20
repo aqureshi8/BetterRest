@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7808FEF82BA8F8CD00977040 /* SleepCalculator.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 7808FEF72BA8F8CD00977040 /* SleepCalculator.mlpackage */; };
 		78D983652BA73F4100333598 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 78D983642BA73F4100333598 /* RealityKitContent */; };
 		78D983672BA73F4100333598 /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D983662BA73F4100333598 /* BetterRestApp.swift */; };
 		78D983692BA73F4100333598 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D983682BA73F4100333598 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7808FEF72BA8F8CD00977040 /* SleepCalculator.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = SleepCalculator.mlpackage; sourceTree = SOURCE_ROOT; };
 		78D9835F2BA73F4100333598 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D983632BA73F4100333598 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		78D983662BA73F4100333598 /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		78D983612BA73F4100333598 /* BetterRest */ = {
 			isa = PBXGroup;
 			children = (
+				7808FEF72BA8F8CD00977040 /* SleepCalculator.mlpackage */,
 				78D983662BA73F4100333598 /* BetterRestApp.swift */,
 				78D983682BA73F4100333598 /* ContentView.swift */,
 				78D9836A2BA73F4300333598 /* Assets.xcassets */,
@@ -156,6 +159,7 @@
 			files = (
 				78D983692BA73F4100333598 /* ContentView.swift in Sources */,
 				78D983672BA73F4100333598 /* BetterRestApp.swift in Sources */,
+				7808FEF82BA8F8CD00977040 /* SleepCalculator.mlpackage in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
